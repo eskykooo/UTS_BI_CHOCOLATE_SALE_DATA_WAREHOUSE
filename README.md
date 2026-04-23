@@ -9,10 +9,10 @@
 
 | No | Nama | NIM |
 |----|------|-----|
-| 1  | [Hendri Zaidan Safitra] | [2409116013] |
-| 2  | [Najmi Hafizh Mauludan Zain] | [2409116028] |
-| 3  | [Muhammad Sadikin Samir] | [2409116031] |
-| 4  | [Rizqy] | [2409116039] |
+| 1  | Hendri Zaidan Safitra | 2409116013 |
+| 2  | Najmi Hafizh Mauludan Zain | 2409116028 |
+| 3  | Muhammad Sadikin Samir | 2409116031 |
+| 4  | Rizqy | 2409116039 |
 
 ---
 
@@ -261,7 +261,6 @@ Berikut insight utama yang berhasil ditemukan dari analisis data:
 
 | Platform | Link |
 |----------|------|
-| 📓 **Google Colab** | [Buka Notebook →](https://colab.research.google.com/) |
-| 🐙 **GitHub Repository** | [Lihat Repository →](https://github.com/) |
-| 📊 **Dataset (Kaggle)** | [Download Dataset →](https://www.kaggle.com/) |
+| 📓 **Google Colab** | [Buka Notebook →](https://colab.research.google.com/drive/1Cu1f5nMhmyYoxbso3mxYFsJb1zCJtJF6?usp=sharing) |
+| 📊 **Dataset (Kaggle)** | [Download Dataset →](https://www.kaggle.com/datasets/syedaeman2212/chocolate-sales-dataset-in-2025) |
 
