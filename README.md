@@ -5,7 +5,7 @@
 
 ---
 
-## 👥 Anggota Kelompok
+## 👥 Anggota Kelompok 6
 
 | No | Nama | NIM |
 |----|------|-----|
