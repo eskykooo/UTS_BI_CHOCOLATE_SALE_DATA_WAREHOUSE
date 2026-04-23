@@ -166,16 +166,7 @@ Tabel inti yang menyimpan metrik penjualan dan foreign key ke semua dimensi.
 │       ├── 📄 dim_region.csv
 │       ├── 📄 dim_channel.csv
 │       ├── 📄 dim_payment.csv
-│       └── 📄 fact_sales.csv
-│
-├── 📂 database/
-│   └── 🗄️ chocolate_dw.db                        ← SQLite Data Warehouse
-│
-├── 📂 notebooks/
-│   └── 📓 Chocolate_Collab.ipynb                 ← Main notebook (ETL + Analisis)
-│
-├── 📂 docs/
-│   └── 📄 star_schema_diagram.png                ← Diagram ERD Star Schema
+│       └── 📄 fact_sales.csv|
 │
 └── 📄 README.md                                  ← Dokumentasi proyek ini
 ```
